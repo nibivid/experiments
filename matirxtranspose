@@ -1,0 +1,5 @@
+#approach with numpy 
+import numpy as np
+a = np.array([[1, 2,3], [43, 4,12],[43, 41,22]])
+a
+a.transpose()
